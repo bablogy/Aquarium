@@ -1,7 +1,7 @@
 # Aquarium
 A virtual aquarium in C++ from scratch  
 
-The code is first published in 2005 (while I was an electrical student engineer) on :
+The code is first published in 2005 on :
 https://codes-sources.commentcamarche.net/source/34564-aquarium-virtuel-16-bits
 
 It is a virtual Aquarium written in the C++ language. 
